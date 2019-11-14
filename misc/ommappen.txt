@@ -1,1 +1,2 @@
-Denna mapp skall innehålla dina skisser, dokumention etc.
+Denna mapp skall innehålla dina skisser, dokumentation etc.
+
