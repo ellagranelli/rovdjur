@@ -1,2 +1,25 @@
-Denna mapp skall innehålla dina skisser, dokumentation etc.
+INPUT-reflektion
+Innan du påbörjar uppgiften skall du göra en INPUT-reflektion. 
+Detta för att få en bild av var du är, vad du skall genomföra och vilka hinder du kommer behöva utmana. 
+Reflektionen skall skrivas ned i din utvecklingsdagbok.
+
+Varför designar vi en mobiltelefonsida först?
+De flesta använder och surfar hemsidor på mobilen nuförtiden, så vi skapar för majoriteten helt enkelt. 
+
+Vilka ramar sätter en mobilsida på utseendet?
+Mobilsidor läses ofta stående och byggs då oftast på det sättet. 
+Eftersom ytan är ganska liten behöver text, loggor och knappar vara lite större för att anpassas till läsaren.
+
+Vad gör en mobilsida bra?
+Man behöver inte zooma in och ut, alltså text och bild är anpassade till mobil. 
+
+Tydliga gränssnitt. 
+Vilka kunskaper har jag redan som jag kan använda mig av i detta projekt?
+Hur man länkar mellan HTML-sidor, eftersom vi ska ha flera. 
+Jag kan använda mig av img för att göra sidan lite roligare att titta på, 
+samt id och class för att göra det enklare för mig att hitta allt när jag går vidare till CSS. 
+
+Vad kommer bli min utmaning?
+Grid har jag av någon anledning svårt för. 
+Jag tror också att eftersom vi inte har jobbat särskilt mycket med HTML på länge så måste det repeteras. 
 
