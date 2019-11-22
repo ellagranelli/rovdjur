@@ -21,27 +21,82 @@ body {
     font-family: cursive;
     background-color: whitesmoke;
     text-align: center;
+    font-size: 15px;
+    margin-bottom:30px;
+    height:75px;
 }
 
-#text, #img {
+main, #img {
     grid-area: mn;
-    text-align: center;
 }
 
-p, h4 {
+#img {
+    border-radius: 25px;
+}
+
+p {
     font-family: Arial, Helvetica, sans-serif;    
 }
 
-#footer {
+footer {
     grid-area: ft;
     background-color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
-#nav {
+nav {
     grid-area: nav;
-    background-color: whitesmoke;
+   
+}
+
+.links {
     text-align: center;
-    
+    color:darkslategrey;
+    font-size: 15px;
     width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:55px;
+}
+
+#faqhem {
+    text-align:center;
+}
+
+#faq, #rubrik2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h3 {
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#varg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-radius: 25px;
+}
+
+#index {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey;
+    font-size:15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 70%;
+    background-color: whitesmoke;
+    text-align:center;
+}
+
+#rovdjur {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-radius: 25px;
 }
 }
